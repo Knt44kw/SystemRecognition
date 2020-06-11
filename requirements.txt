@@ -1,0 +1,5 @@
+graphviz==0.14
+pydot==1.4.1
+pydot-ng==2.0.0
+pydotplus==2.0.2
+
