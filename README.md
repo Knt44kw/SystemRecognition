@@ -7,7 +7,7 @@
 `pickle`: 課題で使用した画像やラベルをテンソルとして保存しているpickleファイルをまとめたディレクトリ<br><br>
 `result`: 課題の実行結果の画像をまとめたディレクトリ
    - functing_fitting: `fullconnection_keras.ipynb` の実行結果
-   - basic_model: `conv_keras.ipybn`と`mnist_keras.ipynb` の実行結果
+   - basic_model: `conv_keras.ipynb`と`mnist_keras.ipynb` の実行結果
    - pretrained_model: `pretrained_keras.ipynb` の実行結果
    - gratin: `lsgan.ipynb`と`dcgan.ipynb`の実行結果
    - foodimg: `conditional_gan.ipynb`の実行結果
