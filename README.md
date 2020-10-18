@@ -63,7 +63,7 @@
    - functing_fitting: `fullconnection_keras.ipynb` の実行結果
    - basic_model: `conv_keras.ipynb`と`mnist_keras.ipynb` の実行結果
    - pretrained_model: `pretrained_keras.ipynb` の実行結果
-   - gratin: `lsgan.ipynb`と`dcgan.ipynb`の実行結果
+   - gratin: `lsgan.ipynb`，`dcgan.ipynb`，`wgan.ipynb` の実行結果
    - foodimg: `conditional_gan.ipynb`の実行結果
    - pilaf2curry: `cyclegan.ipynb`の実行結果
    - pix2pix: `pix2pix.ipynb`の実行結果
